@@ -1,0 +1,25 @@
+{
+  "user": [
+    {
+      "id": "1",
+      "name": "Keanu Reeves"
+    }
+  ],
+  "movie": [
+    {
+      "id": "036a9e14-51da-4a92-af67-6bc4ec938495",
+      "createdAt": 1601860662766,
+      "name": "Matrix",
+      "genre": "Action",
+      "country": "EUA",
+      "language": "English",
+      "actor": "1"
+    }
+  ],
+  "awards": [
+    {
+      "id_movie": "036a9e14-51da-4a92-af67-6bc4ec938495",
+      "oscar": 3
+    }
+  ]
+}

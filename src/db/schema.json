@@ -1,0 +1,19 @@
+{
+  "user": {
+    "id": "string",
+    "name": "string"
+  },
+  "movie": {
+    "id": "string",
+    "createdAt": "string",
+    "name": "string",
+    "genre": "string",
+    "country": "string",
+    "language": "string",
+    "actor": "string"
+  },
+  "awards": {
+    "id_movie": "string",
+    "oscar": "int"
+  }
+}
